@@ -23,7 +23,7 @@ Global safety culture initiative focused on engagement, critical risk awareness 
  
 #### Global EHS Induction
  
-Interactive learning solutions to improve awareness of Life Saving Rules, Process Safety, Hazardous Energy Control, and MoHRA - Management of High-Risk Activities.
+Interactive learning solutions to improve awareness of Life Saving Rules, Process Safety, Hazardous Energy Control, and Management of High-Risk Activities.
  
 #### AI for Learning
  
