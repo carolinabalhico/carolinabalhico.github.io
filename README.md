@@ -30,7 +30,6 @@ Interactive learning solutions to improve awareness of Life Saving Rules, Proces
 Exploring the use of AI tools to enhance instructional design, assessments, translations, and learning content creation.
  
 ### Certifications
- 
 - PMP (Project Management Professional)
 - IOSH Managing Safely
 - EHS and Process Safety Training
