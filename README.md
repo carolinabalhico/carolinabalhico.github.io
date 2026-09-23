@@ -17,17 +17,13 @@ I design learning experiences that help people work safer, smarter, and more eff
  
 ### Featured Projects
  
-#### Life-Saving Rules Program
+#### Safety (EHS) Culture Program
  
-Global safety culture initiative focused on critical risk awareness and prevention.
+Global safety culture initiative focused on engagement, critical risk awareness and prevention.
  
-#### Chemical Safety Awareness
+#### Global EHS Induction
  
-Interactive learning solutions to improve awareness of chemical hazards and risk control measures.
- 
-#### IOSH Training Rollout
- 
-Coordination and implementation of international safety leadership training programs.
+Interactive learning solutions to improve awareness of Life Saving Rules, Process Safety, Hazardous Energy Control, and MoHRA - Management of High-Risk Activities.
  
 #### AI for Learning
  
@@ -35,7 +31,8 @@ Exploring the use of AI tools to enhance instructional design, assessments, tran
  
 ### Certifications
  
-- IOSH
+- PMP (Project Management Professional)
+- IOSH Managing Safely
 - EHS and Process Safety Training
 - Learning & Development Programs
 - AI Learning Initiatives
