@@ -7,7 +7,6 @@ Welcome to my professional portfolio.
 I design learning experiences that help people work safer, smarter, and more effectively.
  
 ### Areas of Expertise
- 
 - Learning Experience Design
 - AI for Learning
 - Safety Culture Transformation
@@ -16,7 +15,6 @@ I design learning experiences that help people work safer, smarter, and more eff
 - Digital Learning Technologies
  
 ### Featured Projects
- 
 #### Safety (EHS) Culture Program
  
 Global safety culture initiative focused on engagement, critical risk awareness and prevention.
